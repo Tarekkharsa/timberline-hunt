@@ -2,4 +2,4 @@
 
 Play: https://tarekkharsa.github.io/timberline-hunt/
 
-Build 0.48.0. Hunting together works here and in the Android app, in the same rooms.
+Build 0.48.1. Hunting together works here and in the Android app, in the same rooms.
